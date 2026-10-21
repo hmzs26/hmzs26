@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20&height=230&section=header&text=HAMZA&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Writer%20%E2%80%A2%20Backend%20%26%20Cloud%20Engineer%20in%20the%20making&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20&height=230&section=header&text=HAMZA&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Writer%20%E2%80%A2%20Backend%20and%20Cloud%20Engineer%20in%20the%20making&descAlignY=65&descSize=18" width="100%"/>
 
 <a href="https://github.com/hmzs26/my-compiled-works">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F7931A&center=true&vCenter=true&width=700&height=45&lines=Thinking+in+systems%2C+building+in+public;Backend+%26+Cloud+%E2%86%92+DevOps+%E2%86%92+WordPress;Writing+life+as+a+blockchain;Playing+the+long+game+%E2%9B%8F%EF%B8%8F" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F7931A&center=true&vCenter=true&width=700&height=45&lines=Thinking+in+systems%2C+building+in+public;Backend+and+Cloud+%E2%86%92+DevOps+%E2%86%92+WordPress;Writing+life+as+a+blockchain;Playing+the+long+game" alt="Typing animation" />
 </a>
 
 <br/><br/>
